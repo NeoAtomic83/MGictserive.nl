@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Niets te zien hier</title>
+    <style>
+        :root {
+            --background-color: #f8f9fa;
+        }
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: var(--background-color);
+            font-family: Arial, sans-serif;
+        }
+        h1 {
+            color: #6c757d;
+        }
+    </style>
+</head>
+<body>
+    <main>
+        <h1>Niets te zien hier</h1>
+    </main>
+</body>
+</html>
